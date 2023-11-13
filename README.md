@@ -5,6 +5,9 @@
 This project focuses on analyzing facial expressions from videos.
 
 
+It was completed as part of the Master's in Engineering and Data Science program at the University of Coimbra (November, 2023).
+
+
 ###1 part
 ### Data Preprocessing
 
@@ -58,5 +61,3 @@ This project focuses on analyzing facial expressions from videos.
    - Trained models are interpreted to gain insights into the relationships between features and the target variable.
 
 
-
-This project was completed as part of the Master's in Engineering and Data Science program at the University of Coimbra (November, 2023).
